@@ -14,4 +14,4 @@ In my free time, I like to contribute to open-source projects and collaborate wi
 
 Personal Portfolio Website.😎
 
-Visit Here to See [Website](https://puneetsharma52.github.io/PuneetSharma52/).
+Visit Here to See [Website](https://puneetsharma.netlify.app).
