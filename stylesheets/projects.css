@@ -1,0 +1,186 @@
+:root {
+  --bg-color: #444;
+  --color-green: #7cfc11;
+  --color-dull-white: #ddd;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
+  color: var(--color-dull-white);
+  font-size: 16px;
+  font-family: monospace;
+}
+
+::-webkit-scrollbar {
+  width: 0.625em;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+
+h2 {
+  font-size: larger;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+  padding: 0.5rem;
+}
+
+.resume-container{
+  max-width: 850px;
+  width: 100%;
+  margin: auto;
+  padding: 0rem 0.5rem;
+}
+
+
+.container .heading {
+  color: var(--color-green);
+}
+
+.container h1 {
+  text-align: center;
+}
+
+/* loader */
+.loader{
+text-align: center;
+margin: 1rem 0;
+}
+
+/* filter */
+.filter-data-btn{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 1.3rem;
+}
+
+.filter-btn{
+  margin: 0rem 0.5rem;
+  color: var(--color-green);
+  cursor: pointer;
+}
+
+.filter-btn:hover{
+  text-decoration: underline;
+}
+
+/* projects */
+
+.project-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project-description {
+  margin: 0.5rem;
+  padding: 0rem 0.5rem;
+  width: 30%;
+}
+
+.highlight {
+  color: var(--color-green);
+}
+
+.extra-div a {
+  color: var(--color-dull-white);
+}
+
+.extra-div a:hover {
+  color: var(--color-green);
+  cursor: pointer;
+}
+
+.button {
+  margin-top: 0.5rem;
+  display: flex;
+}
+
+.button a {
+  text-decoration: none;
+  color: var(--color-green);
+  padding-right: 1rem;
+}
+
+.button a:hover {
+  color: var(--color-dull-white);
+  text-decoration: underline;
+}
+
+/* footer */
+
+#footer {
+  height: 3.75em;
+  bottom: 0;
+  width: 90%;
+  max-width: 1040px;
+  margin: 0 auto;
+  font-size: large;
+}
+
+#footer a {
+  color: var(--color-dull-white);
+}
+
+#footer a:hover {
+  color: var(--color-green);
+  cursor: pointer;
+}
+
+.wrapper {
+  display: flex;
+  font-size: 0.75em;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wrap {
+  font-size: 1.25em;
+}
+
+.social-icons a {
+  padding-right: 0.875em;
+  opacity: 0.85;
+  display: inline-block;
+}
+
+.social-icons a:hover {
+  opacity: 1;
+}
+
+@media only screen and (max-width: 600px) {
+  .project-description {
+    width: 100%;
+  }
+
+  .filter-data-btn{
+    justify-content: center;
+    margin-left: 0rem;
+  }
+
+  #footer {
+    font-size: 14px;
+  }
+}
