@@ -1,5 +1,15 @@
 export const projectData = [
   {
+    projectName: "Portfolio",
+    projectDate: "January 2023",
+    projectDescription:
+      "This is my Personal Portfolio Created with a simple opensource theme (jekyll-theme-cayman)",
+    tags: ["HTML", "CSS", "JavaScript"],
+    link: "https://codex-chat-gpt-clone.vercel.app/",
+    repo: "https://github.com/PuneetSharma52/Codex-chatGPT-clone",
+  },
+  
+  {
     projectName: "Codex",
     projectDate: "December 2022",
     projectDescription:
