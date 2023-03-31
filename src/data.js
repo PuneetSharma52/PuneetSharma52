@@ -6,7 +6,7 @@ export const projectData = [
       "This is my Personal Portfolio Created with a simple opensource theme (jekyll-theme-cayman)",
     tags: ["HTML", "CSS", "JavaScript"],
     link: "https://puneetsharma.netlify.app/",
-    repo: "https://github.com/PuneetSharma52/Codex-chatGPT-clone",
+    repo: "https://github.com/PuneetSharma52/PuneetSharma52",
   },
   
   {
