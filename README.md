@@ -14,8 +14,6 @@ I am a computer science student with a passion for coding and development. I hav
 * 🤝  I'm open to collaborating on Open Source
 * ⚡  In My Own World of Thoughts 😇
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PuneetSharma52"><img src="https://github-readme-stats.vercel.app/api?username=PuneetSharma52&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PuneetSharma52's GitHub stats" /></a>
