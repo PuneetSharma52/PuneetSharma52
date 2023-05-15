@@ -1,5 +1,15 @@
 export const projectData = [
   {
+    projectName: "Youtube Clone",
+    projectDate: "May 2023",
+    projectDescription:
+      "This is a basic modern UI representing Youtube clone",
+    tags: ["HTML", "CSS", "JavaScript", "ReactJS", "TailwindCSS"],
+    link: "https://youtube-clone-by-puneet.netlify.app/",
+    repo: "https://github.com/PuneetSharma52/Youtube-Clone",
+  },
+
+  {
     projectName: "Portfolio",
     projectDate: "January 2023",
     projectDescription:
