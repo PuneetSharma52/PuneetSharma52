@@ -8,7 +8,7 @@ I am a computer science student with a passion for coding and development. I hav
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [My Portfolio](http://puneetsharma.netlify.app)
-* ✉️  You can contact me at [codesymbiote@gmail.com](mailto:codesymbiote@gmail.com)
+* ✉️  You can contact me at [codesymbiote@gmail.com](mailto:ps464123@gmail.com)
 * 🚀  I'm currently working on [Something 😅](http://github.com/PuneetSharma52)
 * 🧠  I'm learning New Skills 🌟
 * 🤝  I'm open to collaborating on Open Source
